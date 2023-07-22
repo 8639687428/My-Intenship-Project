@@ -1,4 +1,4 @@
-# My-Intenship-Project
+# My-Internship-Project
 Portfolio Site
 
 <!DOCTYPE html>
